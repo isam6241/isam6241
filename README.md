@@ -9,7 +9,7 @@
   </p>
 <br>
 
-<p><img align="right" src="https://github.com/ishanisamaraweera/ishanisamaraweera/blob/main/ishani.gif" alt="Ishani" /></p>
+<p><img align="right" src="https://github.com/isam6241/isam6241/blob/main/ishani.gif" alt="Ishani" /></p>
 
 🌱 **Currently learning**: Advanced cloud deployments and container orchestration.
 
