@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Senior Software Engineer at Sysco LABS Sri Lanka</h3>
 <div align="center">	
     
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ishanisamaraweera)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/isam6241)
 
 </div>
 <br>
@@ -15,7 +15,7 @@
 
 🌱 **Currently learning**: Advanced cloud deployments and container orchestration.
 
-📫 **How to reach me**: ishanisamaraweera@gmail.com
+📫 **How to reach me**: ishani.samaraweera@sysco.com
 
 💬 **Ask me about**: Java, Spring Boot, Microservices Architecture
 
@@ -74,11 +74,11 @@
 
 <h3>Statistical Data:</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishanisamaraweera&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isam6241&show_icons=true&theme=radical)
 
 <br>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanisamaraweera&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=isam6241&show_icons=true&locale=en&layout=compact"
     alt="ishanisamaraweera" />
 </p>
 <br>
