@@ -1,12 +1,10 @@
 <h1 align="center">Hi there, I'm Ishani Samaraweera 👋</h1>
 <h3 align="center">👩‍💻 Senior Software Engineer at Sysco LABS Sri Lanka</h3>
-<div align="center">	
-    
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/isam6241)
+<div align="center">
 
 </div>
 <br>
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=ishanisamaraweera&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=isam6241&label=Profile%20views&color=0e75b6&style=flat"
     alt="ishani" /> 
   </p>
 <br>
