@@ -68,17 +68,5 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ishanisamaraweera/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/sa_ishani/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ishoosa/)
 </div>
-<br>
-
-<h3>Statistical Data:</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isam6241&show_icons=true&theme=radical)
-
-<br>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=isam6241&show_icons=true&locale=en&layout=compact"
-    alt="ishanisamaraweera" />
-</p>
-<br>
 
 ---
